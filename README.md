@@ -1,5 +1,3 @@
-# React-Practical-3
-To-Do App 
 #### 1. CRA
 
 ```sh
@@ -26,3 +24,4 @@ $ npm start
 
 #### App Preview:
 ![Screenshot from 2022-03-09 09-35-01](https://user-images.githubusercontent.com/97106864/157370838-314904c0-4052-4b03-8ee7-13efaf8aac41.png)
+

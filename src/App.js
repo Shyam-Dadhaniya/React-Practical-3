@@ -1,4 +1,4 @@
-import Main from "./Components/Main-Section/Main";
+import Main from "./container/Main";
 function App() {
   return <Main />;
 }
